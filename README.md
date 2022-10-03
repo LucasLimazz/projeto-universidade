@@ -7,7 +7,8 @@
 ## Por qual motivo utilizei somente HTML nesse projeto?
 
 - Utilizei somente HTML para praticar alguns códigos HTML,
-como por exemplo: tabela, formulário, inputs, select e inserção de imagens.
+como por exemplo: tabelas, formulários, inputs, select, inserção de imagens
+e navegação entre páginas.
 
 ## 🛠 Tecnologias
 
