@@ -1,4 +1,4 @@
-# Exemplo de Formulário
+# Site fictício de uma Universidade
 
 ![preview](./.github/preview.png)
 
